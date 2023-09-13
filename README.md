@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans！
+I am Fraine，from CS221.I want to study this course well.
